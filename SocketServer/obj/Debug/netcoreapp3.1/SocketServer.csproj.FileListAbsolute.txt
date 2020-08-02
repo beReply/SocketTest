@@ -1,0 +1,13 @@
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csprojAssemblyReference.cache
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CoreCompileInputs.cache
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+G:\learn\C# Basic\code\socket\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.genruntimeconfig.cache

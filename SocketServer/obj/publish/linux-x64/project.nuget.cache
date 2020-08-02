@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Pnh4RzDGMtNViWqzPm8r9fBDfm8Yz8gKRhK2FVkQBV/i0+zKXrvw8voEooMaI8KyKWhMJAvu7W42gnBHra94Q==",
+  "success": true,
+  "projectFilePath": "G:\\learn\\C# Basic\\code\\socket\\SocketServer\\SocketServer\\SocketServer\\SocketServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.6\\microsoft.netcore.app.runtime.linux-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.6\\microsoft.netcore.app.host.linux-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
